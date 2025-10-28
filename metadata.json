@@ -1,0 +1,8 @@
+
+{
+  "name": "Real-time Audio Transcriber",
+  "description": "An application that uses the Gemini API to transcribe user audio from their microphone in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
